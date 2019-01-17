@@ -1,3 +1,5 @@
 This has been commited and pushed by GitKraken
 
+Deze edit is gemaakt in GitHub
+
 Dit veroorzaakt een mergeconflict
